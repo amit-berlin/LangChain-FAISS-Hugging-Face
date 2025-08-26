@@ -1,0 +1,8 @@
+streamlit
+nltk
+pymupdf
+langchain==0.1.16
+faiss-cpu
+sentence-transformers
+transformers
+torch
